@@ -11,7 +11,6 @@ function App() {
 }
 
 function MainApp() {
-  let navigate = useNavigate();
 
   return (
     <div>
